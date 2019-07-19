@@ -1,0 +1,6 @@
+diffs/*
+!diffs/.gitkeep
+!diffs/README.md
+tests/*
+!tests/.gitkeep
+!tests/README.md
